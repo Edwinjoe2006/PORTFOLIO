@@ -19,7 +19,7 @@ export default function Experience() {
         <div className="flex items-center gap-2 mb-3">
           <div className="h-px w-8 bg-brand-500" />
           <span className="text-xs font-mono uppercase tracking-widest text-brand-400 font-semibold">
-            Track Record & Career
+            Background & Career
           </span>
         </div>
 
@@ -29,7 +29,7 @@ export default function Experience() {
               Education & <span className="text-gradient">Experience</span>
             </h2>
             <p className="text-slate-400 text-sm sm:text-base max-w-2xl mt-2">
-              Demonstrated academic excellence at SRM IST alongside practical analytical internship training at YuvaIntern.
+              Maintaining a strong academic foundation in Information Technology at SRM IST alongside practical analytical internship training at YuvaIntern.
             </p>
           </div>
         </div>

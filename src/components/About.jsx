@@ -81,7 +81,7 @@ export default function About() {
               <div className="flex items-start gap-2.5">
                 <ShieldCheck className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
                 <span className="text-xs text-slate-300">
-                  Exceptional academic track record with <strong>9.35 / 10.0 CGPA</strong> at SRM IST.
+                  <strong>CGPA: 9.35 / 10.0</strong> — Maintaining a strong academic foundation in Information Technology, with a focus on programming, AIML, web development, and core computer science concepts.
                 </span>
               </div>
               <div className="flex items-start gap-2.5">
@@ -115,7 +115,7 @@ export default function About() {
                 {/* Header */}
                 <div className="flex items-center justify-between border-b border-white/10 pb-4">
                   <div>
-                    <div className="text-xs font-mono text-cyan-400">Academic Standing</div>
+                    <div className="text-xs font-mono text-cyan-400">Academic Profile</div>
                     <div className="text-lg font-bold text-white">SRM Institute of Science & Tech</div>
                   </div>
                   <div className="p-3 bg-brand-500/10 border border-brand-500/20 rounded-2xl text-brand-400">
@@ -133,9 +133,9 @@ export default function About() {
                       9.35 <span className="text-lg text-slate-400 font-normal">/ 10.0</span>
                     </div>
                   </div>
-                  <span className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-semibold rounded-full bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">
+                  <span className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-semibold rounded-full bg-emerald-500/15 text-emerald-400 border border-emerald-500/30 font-mono">
                     <CheckCircle className="w-3.5 h-3.5" />
-                    Top Rank
+                    SRM IST
                   </span>
                 </div>
 

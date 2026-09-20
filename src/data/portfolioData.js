@@ -12,7 +12,7 @@ export const personalInfo = {
     "institution": "SRM Institute of Science and Technology",
     "cgpa": "9.35 / 10.0",
     "status": "Undergraduate",
-    "highlight": "Top Academic Performer (9.35 CGPA)"
+    "highlight": "CGPA: 9.35 / 10.0 — Maintaining a strong academic foundation in Information Technology, with a focus on programming, AIML, web development, and core computer science concepts."
   },
   "bio": "Information Technology student interested in software development, artificial intelligence, machine learning, full-stack development, and data analysis. Experienced in building practical software projects involving ML, REST APIs, databases, dashboards, and web applications.",
   "aboutExtended": "I specialize in developing scalable software solutions and intelligent machine learning applications. From architecting end-to-end full-stack web platforms with robust relational databases to creating predictive ML models and clinical monitoring platforms, I focus on clean code, performance, and user-centric designs."
@@ -281,8 +281,8 @@ export const experiences = [
     "location": "Trichy / Chennai, Tamil Nadu",
     "period": "Undergraduate Program",
     "grade": "CGPA: 9.35 / 10.0",
-    "badge": "Top Academic Performer (9.35 CGPA)",
-    "description": "Pursuing rigorous curriculum in computer science and information technology with an emphasis on data structures, algorithms, object-oriented design, database architecture, and artificial intelligence.",
+    "badge": "CGPA: 9.35 / 10.0",
+    "description": "Maintaining a strong academic foundation in Information Technology, with a focus on programming, AIML, web development, and core computer science concepts.",
     "skills": [
       "Data Structures & Algorithms",
       "Object-Oriented Programming (OOP)",
