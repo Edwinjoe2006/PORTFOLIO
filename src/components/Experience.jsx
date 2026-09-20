@@ -26,10 +26,10 @@ export default function Experience() {
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-14">
           <div>
             <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-white">
-              Education & <span className="text-gradient">Virtual Internships</span>
+              Education & <span className="text-gradient">Experience</span>
             </h2>
             <p className="text-slate-400 text-sm sm:text-base max-w-2xl mt-2">
-              Demonstrated academic excellence alongside focused industry training programs in Artificial Intelligence, Cloud Architectures, and Statistical Analytics.
+              Demonstrated academic excellence at SRM IST alongside practical analytical internship training at YuvaIntern.
             </p>
           </div>
         </div>

@@ -76,7 +76,7 @@ export default function Footer() {
             © {new Date().getFullYear()} Edwin Joe M. Crafted with precision for high performance.
           </div>
           <div className="flex items-center gap-1 text-slate-400">
-            <span>Research at ICRCET 2026</span>
+            <span>B.Tech Information Technology</span>
             <span>•</span>
             <span>Trichy, Tamil Nadu, India</span>
           </div>

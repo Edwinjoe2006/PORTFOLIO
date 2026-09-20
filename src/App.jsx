@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
-import ResearchSpotlight from './components/ResearchSpotlight';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
 import Experience from './components/Experience';
@@ -41,7 +40,6 @@ export default function App() {
       <main className="relative z-10">
         <Hero />
         <About />
-        <ResearchSpotlight />
         <Projects />
         <Skills />
         <Experience />

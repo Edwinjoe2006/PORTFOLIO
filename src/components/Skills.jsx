@@ -85,7 +85,7 @@ export default function Skills() {
               Skills, Frameworks & <span className="text-gradient">Foundations</span>
             </h2>
             <p className="text-slate-400 text-sm sm:text-base max-w-2xl mt-2">
-              From low-level data structures and operating systems to scalable React frontends and graph-powered machine learning pipelines.
+              Demonstrated competencies across Data Structures & Algorithms, Object-Oriented Programming, Full-Stack Development, Relational Databases, and Machine Learning.
             </p>
           </div>
 

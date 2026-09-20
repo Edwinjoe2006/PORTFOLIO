@@ -16,7 +16,6 @@ export default function Navbar({ darkMode, setDarkMode }) {
 
   const navLinks = [
     { name: 'About', href: '#about' },
-    { name: 'Research', href: '#research' },
     { name: 'Projects', href: '#projects' },
     { name: 'Skills', href: '#skills' },
     { name: 'Experience', href: '#experience' },

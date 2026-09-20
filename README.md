@@ -1,21 +1,20 @@
-# Edwin Joe M — Personal Developer Portfolio & Research Showcase
+# EDWIN JOE M — Personal Developer Portfolio
 
-> **High-Performance Developer Portfolio with Interactive Graph Centrality & Fraud Detection Simulator**  
+> **High-Performance Developer Portfolio**  
 > *B.Tech Information Technology @ SRM Institute of Science & Technology (CGPA: 9.35 / 10.0)*  
-> *Author & Lead Researcher at ICRCET 2026*
+> *Software Developer & AI/ML Engineer*
 
 ---
 
 ## 🌟 Overview
 
-This repository contains the source code for the developer portfolio of **Edwin Joe M**. Designed with a modern, glassmorphic dark aesthetic, interactive animations, and responsive layouts, it showcases practical engineering systems across Machine Learning, Full-Stack Web Development, and Distributed Architectures.
+This repository contains the source code for the personal developer portfolio of **EDWIN JOE M**. Designed with a modern glassmorphic dark aesthetic, interactive background canvas, and responsive layouts, it showcases practical engineering systems across Machine Learning, Full-Stack Web Development, and Relational Databases.
 
 ### Key Highlights:
-- **Interactive Graph Centrality Workbench**: A live simulation component demonstrating graph topology extraction (Betweenness, PageRank, Degree) and supervised ML fraud risk prediction directly connected to Edwin's **ICRCET 2026 accepted research**.
-- **Production Systems Showcase**: In-depth architecture breakdowns and modals for 4 featured production systems.
-- **Academic & Career Timeline**: Showcasing SRM IST (9.35 CGPA) and virtual internships at **Google**, **AWS**, and **YuvaIntern**.
-- **Interactive Skills Matrix**: Real-time searchable and categorized skills database spanning Python, React, Node.js, SQL, Machine Learning, and core CS fundamentals.
-- **Direct Connect Hub**: One-click copy email button with confetti trigger, direct LinkedIn and GitHub links, and contact form.
+- **Production Systems Showcase**: In-depth architecture breakdowns and interactive modals for 4 featured full-stack and ML production systems.
+- **Academic & Career Timeline**: Showcasing SRM IST (9.35 / 10.0 CGPA) and virtual internship at **YuvaIntern** (R Data Analytics).
+- **Interactive Skills Matrix**: Real-time searchable and categorized skills database across Python, Java, SQL, React, Node.js, Express, Flask, MySQL, SQLite, and core CS fundamentals (DSA, OOP, OS, DBMS, Networks).
+- **Direct Connect Hub**: One-click copy email button with confetti feedback, direct LinkedIn and GitHub links, and contact messaging form.
 
 ---
 
@@ -25,7 +24,7 @@ This repository contains the source code for the developer portfolio of **Edwin 
 - **Styling**: Tailwind CSS, PostCSS, Glassmorphism UI
 - **Visuals & Canvas**: HTML5 Canvas Particle Network, Canvas Confetti
 - **Icons**: Lucide React & Custom SVG Vector Icons
-- **Deployment**: Production bundle optimized under 90 kB gzip
+- **Deployment**: Vercel & GitHub Pages compatible (bundle optimized under 90 kB gzip)
 
 ---
 
@@ -34,6 +33,7 @@ This repository contains the source code for the developer portfolio of **Edwin 
 ```
 PORTFOLIO/
 ├── index.html
+├── vercel.json                  # Vercel SPA routing config
 ├── package.json
 ├── tailwind.config.js
 ├── postcss.config.js
@@ -42,17 +42,15 @@ PORTFOLIO/
 │   ├── App.jsx
 │   ├── index.css
 │   ├── data/
-│   │   └── portfolioData.js     # Centralized, type-safe data store
+│   │   └── portfolioData.js     # Centralized data store
 │   └── components/
 │       ├── Navbar.jsx           # Glassmorphic header with dark/light mode toggle
 │       ├── Hero.jsx             # Canvas particle graph & metric highlights
 │       ├── About.jsx            # Academic standing (9.35 CGPA) & core pillars
-│       ├── ResearchSpotlight.jsx# ICRCET 2026 feature section
-│       ├── InteractiveGraphDemo.jsx # Live interactive fraud detection simulator
 │       ├── Projects.jsx         # Filterable project gallery
 │       ├── ProjectModal.jsx     # Deep dive architectural modal
-│       ├── Skills.jsx           # Filterable & searchable skills matrix
-│       ├── Experience.jsx       # Vertical timeline (SRM IST, Google, AWS, YuvaIntern)
+│       ├── Skills.jsx           # Filterable & searchable skills matrix (75%-80%)
+│       ├── Experience.jsx       # Vertical timeline (SRM IST & YuvaIntern)
 │       ├── Contact.jsx          # One-click email copy & contact generator
 │       ├── Footer.jsx           # Back-to-top navigation & credits
 │       └── Icons.jsx            # Custom vector icons

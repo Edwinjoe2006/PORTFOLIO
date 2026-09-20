@@ -165,13 +165,13 @@ export default function Hero({ onOpenContact }) {
         <p className="text-lg sm:text-2xl font-medium text-slate-300 max-w-3xl mx-auto mb-4 leading-relaxed">
           Building practical software systems at the intersection of{' '}
           <span className="text-cyan-400 font-semibold">Machine Learning</span>,{' '}
-          <span className="text-brand-300 font-semibold">RESTful Architectures</span>, &{' '}
+          <span className="text-brand-300 font-semibold">Databases & REST APIs</span>, &{' '}
           <span className="text-indigo-400 font-semibold">Full-Stack Web</span>.
         </p>
 
         {/* Education & Location Quick Pill */}
         <div className="flex flex-wrap items-center justify-center gap-3 text-xs sm:text-sm text-slate-400 mb-8">
-          <div className="flex items-center gap-1.5 bg-slate-800/60 border border-slate-700/50 rounded-lg px-3 py-1.5 backdrop-blur-sm">
+          <div className="flex items-center gap-1.5 bg-slate-800/60 border border-slate-700/50 rounded-lg px-3.5 py-1.5 backdrop-blur-sm">
             <GraduationCap className="w-4 h-4 text-brand-400" />
             <span>B.Tech IT — <strong>SRM IST</strong></span>
             <span className="font-mono text-emerald-400 font-semibold px-1.5 py-0.2 bg-emerald-500/10 rounded">
@@ -179,14 +179,14 @@ export default function Hero({ onOpenContact }) {
             </span>
           </div>
 
-          <div className="flex items-center gap-1.5 bg-slate-800/60 border border-slate-700/50 rounded-lg px-3 py-1.5 backdrop-blur-sm">
+          <div className="flex items-center gap-1.5 bg-slate-800/60 border border-slate-700/50 rounded-lg px-3.5 py-1.5 backdrop-blur-sm">
             <MapPin className="w-4 h-4 text-cyan-400" />
             <span>Trichy, Tamil Nadu, India</span>
           </div>
 
-          <div className="flex items-center gap-1.5 bg-slate-800/60 border border-slate-700/50 rounded-lg px-3 py-1.5 backdrop-blur-sm">
+          <div className="flex items-center gap-1.5 bg-slate-800/60 border border-slate-700/50 rounded-lg px-3.5 py-1.5 backdrop-blur-sm">
             <Award className="w-4 h-4 text-amber-400" />
-            <span>ICRCET 2026 Author</span>
+            <span>YuvaIntern R Analyst</span>
           </div>
         </div>
 
@@ -201,11 +201,11 @@ export default function Hero({ onOpenContact }) {
           </a>
 
           <a
-            href="#research"
+            href="#skills"
             className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl font-semibold text-sm bg-slate-800/90 hover:bg-slate-700/90 text-slate-200 border border-slate-700 hover:border-slate-500 hover:scale-[1.02] active:scale-[0.98] transition-all shadow-lg"
           >
             <Sparkles className="w-4 h-4 text-cyan-400" />
-            <span>ICRCET 2026 Research</span>
+            <span>Technical Skills</span>
           </a>
 
           <a

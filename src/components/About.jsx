@@ -81,25 +81,25 @@ export default function About() {
               <div className="flex items-start gap-2.5">
                 <ShieldCheck className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
                 <span className="text-xs text-slate-300">
-                  Published research author at <strong>ICRCET 2026</strong> in Graph Fraud Detection.
+                  Exceptional academic track record with <strong>9.35 / 10.0 CGPA</strong> at SRM IST.
                 </span>
               </div>
               <div className="flex items-start gap-2.5">
                 <Zap className="w-5 h-5 text-cyan-400 shrink-0 mt-0.5" />
                 <span className="text-xs text-slate-300">
-                  Maintains a stellar <strong>9.35 / 10.0 CGPA</strong> in B.Tech Information Technology.
+                  Hands-on full-stack development with <strong>React, Node.js, Express & Flask</strong>.
                 </span>
               </div>
               <div className="flex items-start gap-2.5">
                 <Activity className="w-5 h-5 text-indigo-400 shrink-0 mt-0.5" />
                 <span className="text-xs text-slate-300">
-                  Completed virtual internships with <strong>Google, AWS, and YuvaIntern</strong>.
+                  Completed virtual internship at <strong>YuvaIntern</strong> as R Data Analyst.
                 </span>
               </div>
               <div className="flex items-start gap-2.5">
                 <GraduationCap className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
                 <span className="text-xs text-slate-300">
-                  Strong grasp of core CS fundamentals: DSA, OOP, OS, DBMS, & Networks.
+                  Strong grasp of core CS: DSA, OOP, OS, DBMS, & Computer Networks.
                 </span>
               </div>
             </div>
@@ -154,17 +154,17 @@ export default function About() {
                     <span className="font-medium text-white">Trichy, Tamil Nadu, India</span>
                   </div>
                   <div className="flex justify-between py-1.5">
-                    <span className="text-slate-400">Specialization:</span>
-                    <span className="font-medium text-cyan-300">Software & Artificial Intelligence</span>
+                    <span className="text-slate-400">Focus Areas:</span>
+                    <span className="font-medium text-cyan-300">Full-Stack & Machine Learning</span>
                   </div>
                 </div>
 
                 {/* Action */}
                 <a
-                  href="#research"
+                  href="#projects"
                   className="w-full inline-flex items-center justify-center gap-2 py-3 px-4 rounded-xl text-xs font-semibold bg-white/5 hover:bg-white/10 text-white border border-white/10 transition-all group"
                 >
-                  <span>Explore Research Contribution</span>
+                  <span>Explore Featured Projects</span>
                   <ArrowUpRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
                 </a>
               </div>
